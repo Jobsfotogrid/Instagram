@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "235760251714",
+    "project_id": "instagram-d1e1a",
+    "storage_bucket": "instagram-d1e1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235760251714:android:4c954d8248bb4429020edb",
+        "android_client_info": {
+          "package_name": "br.com.jobsfotogrid.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235760251714-vcbj9i2a5no30vkbgaeoab4vp0nafbie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jobsfotogrid.instagram",
+            "certificate_hash": "04e57ee4f715db9333b897b73391a78bf0779c1a"
+          }
+        },
+        {
+          "client_id": "235760251714-cgqgsmusd7obf6l0juujs1roqknt6b8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnomNjQ9Vj_ibypi5parFml8ShV1GgNZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235760251714-cgqgsmusd7obf6l0juujs1roqknt6b8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
